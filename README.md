@@ -1,19 +1,22 @@
-# responsive_portfolio
-*Introduction:
-    *As a student devloper, the project is to create responsive portfolio by using Bootstrap CSS framwork.
+Responsive Portfolio
 
-*Table of Contents*
-    *Description
-    *Technologies
-    *Setup
-    *License
+Introduction
+* As a student devloper, the project is to create responsive portfolio by using Bootstrap CSS framwork.
+
+Table of Contents
+ 1. Description
+ 2. Technologies
+ 3.  Setup
+ 4.  License
 
 Description:
-    *The goal of this project is to create your own mobile responsive portfolio by using Bootstrap CSS framwork.
-    *To create three different HTML files.
-        *index.html
-        *portfoli.html
-        *contact.html
+
+The goal of this project is to create your own mobile responsive portfolio by using Bootstrap CSS framwork.
+        
+*To create three different HTML files.
+    *index.html
+    *portfoli.html
+    *contact.html
     *To create functional Navbar links.
     *To propertly utilize Bootstrap components and grid system.
     *Using sematic HTML
