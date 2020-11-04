@@ -9,31 +9,30 @@ Table of Contents
  3.  Setup
  4.  License
 
-Description:
+Description
 
-The goal of this project is to create your own mobile responsive portfolio by using Bootstrap CSS framwork.
-        
-*To create three different HTML files.
-    *index.html
-    *portfoli.html
-    *contact.html
-    *To create functional Navbar links.
-    *To propertly utilize Bootstrap components and grid system.
-    *Using sematic HTML
-    *Each page having the valid and correct HTML.
-    *Linking the three different HTML files that has been created incorporate within the Navbar.  
-    *Downloading background image from the website to add the background images to the portfolio.   
+ 1.  The goal of this project is to create your own mobile responsive portfolio by using   Bootstrap CSS framwork.
+ 2. To create three different HTML files.
+    a.  index.html
+    b.  portfoli.html
+    c.  contact.html
+    d.  To create functional Navbar links.
+    e.  To propertly utilize Bootstrap components and grid system.
+    f.  Using sematic HTML
+    g.  Each page having the valid and correct HTML.
+    h.  Linking the three different HTML files that has been created incorporate within the Navbar.  
+    i.  Downloading background image from the website to add the background images to the portfolio.   
     
-Technologies:
-    *HTML 5
-    *CSS 3
-    *Bootstrap 4
-    *VS Code-Editor
-    *Github repository
+Technologies
+ 1.  HTML 5
+ 2.  CSS 3
+ 3.  Bootstrap 4
+ 4.  VS Code-Editor
+ 5.  Github repository
 
-Setup:
-    *Right click the file index.html, portfolio.html, and contact.html.
-    *Right click the website, click inspect, and click source.
+Setup
+ 1.  Right click the file index.html, portfolio.html, and contact.html.
+ 2.  Right click the website, click inspect, and click source.
 
 License:
     *MIT License
