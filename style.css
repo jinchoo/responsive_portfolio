@@ -1,0 +1,77 @@
+body {
+    background-image: url(istockphoto-900404226-612x612.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1 {
+    color: black;
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: 50px;
+}
+
+p {
+    color: black;
+    font-family: cursive;
+    font-size: 24px;
+    font-weight: 50px;
+}
+
+a {
+    font-size: 24px;
+    font-weight: bold;
+    font-family:cursive;
+    color: black;
+}
+
+nav {
+    margin: 30px;
+    color: black;
+}
+
+.my-bg-light {
+    background-color: transparent;
+
+}
+
+.navbar-brand  {
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.justify-content{
+    justify-content: space-between;
+}
+
+.float-right {
+    float: right;
+}
+.content {
+    max-width: 720px;
+    padding: 20px;
+    
+}
+.picture {
+    width:200px;
+    height: 200px;
+    margin-right: 20px;
+    float: left;
+}
+
+.inline-text {
+    display: inline;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+.form-group {
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
