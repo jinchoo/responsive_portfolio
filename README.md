@@ -16,12 +16,12 @@ Description
     a.  index.html
     b.  portfoli.html
     c.  contact.html
-    d.  To create functional Navbar links.
-    e.  To propertly utilize Bootstrap components and grid system.
-    f.  Using sematic HTML
-    g.  Each page having the valid and correct HTML.
-    h.  Linking the three different HTML files that has been created incorporate within the Navbar.  
-    i.  Downloading background image from the website to add the background images to the portfolio.   
+ 3.  To create functional Navbar links.
+ 4. To propertly utilize Bootstrap components and grid system.
+ 5.  Using sematic HTML
+ 6.  Each page having the valid and correct HTML.
+ 7. Linking the three different HTML files that has been created incorporate within the Navbar.  
+ 8.  Downloading background image from the website to add the background images to the portfolio.   
     
 Technologies
  1.  HTML 5
