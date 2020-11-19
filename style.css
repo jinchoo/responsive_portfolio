@@ -1,5 +1,5 @@
 body {
-    background-image: url(istockphoto-900404226-612x612.jpg);
+    background-image: url(Assets/istockphoto-900404226-612x612.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -72,6 +72,21 @@ h3 {
     font-family: cursive;
     font-size: 20px;
     font-weight: bolder;
+}
+
+.link {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.img-link {
+    width: 300px;
+    height: 300px;
+}
+
+.picture {
+    width: 200px;
+    height: 200px;
 }
 
 
